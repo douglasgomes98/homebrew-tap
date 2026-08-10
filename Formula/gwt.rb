@@ -1,8 +1,8 @@
 class Gwt < Formula
   desc "Manage Git worktrees across sibling repositories"
   homepage "https://github.com/douglasgomes98/gwt"
-  url "https://github.com/douglasgomes98/gwt/archive/refs/tags/v1.6.1.tar.gz"
-  sha256 "6f378af9317e969fa5e2d20cd0e79e19fbde6b28b237238189b43bdc5e49286c"
+  url "https://github.com/douglasgomes98/gwt/archive/refs/tags/v1.6.2.tar.gz"
+  sha256 "14d19036dc44dd8e2f50cf7b70c8d926fcb6baf06bef4e48af54ee44f3e0b6c7"
   license "MIT"
 
   depends_on "go" => :build
